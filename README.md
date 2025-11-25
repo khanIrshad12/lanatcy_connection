@@ -25,7 +25,7 @@ A Next.js application that displays a 3D world map visualizing exchange server l
 
 ## Tech Stack
 
-- **Framework**: Next.js 14 (App Router)
+- **Framework**: Next.js 16 (App Router)
 - **Language**: TypeScript
 - **3D Graphics**: Three.js with React Three Fiber
 - **Globe Component**: GitHub-style globe inspired by [Aceternity UI](https://ui.aceternity.com/components/github-globe)

@@ -35,3 +35,9 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
+# project-specific
+/.playwright-mcp/
+/brain/
+VIDEO_QUICK_REFERENCE.md
+VIDEO_SCRIPT.md
+
